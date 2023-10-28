@@ -1,0 +1,6 @@
+[
+    {"id": 101, "nombre": "Laptop", "desc": "Portátil con procesador i7", "precio": 1200.00},
+    {"id": 102, "nombre": "Teléfono", "desc": "Smartphone de última generación", "precio": 700.00},
+    {"id": 103, "nombre": "Impresora", "desc": "Impresora láser a color", "precio": 300.00}
+  ]
+  
