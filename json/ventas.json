@@ -1,6 +1,6 @@
 [
-    {"id": 501, "id_producto": 101, "id_vendedor": 1, "fecha": "2023-10-15", "total": 1200.00},
-    {"id": 502, "id_producto": 102, "id_vendedor": 2, "fecha": "2023-10-16", "total": 700.00},
-    {"id": 503, "id_producto": 103, "id_vendedor": 3, "fecha": "2023-10-17", "total": 300.00}
+    {"id": 501, "id_producto": 101, "id_vendedor": 1, "total": 1200.00},
+    {"id": 502, "id_producto": 102, "id_vendedor": 2, "total": 700.00},
+    {"id": 503, "id_producto": 103, "id_vendedor": 3, "total": 300.00}
   ]
   
